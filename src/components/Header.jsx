@@ -57,7 +57,7 @@ const Header = () => {
         id="main-nav"
         className={`md:static md:col-start-2 md:row-start-1 md:block md:w-full md:pl-42.5 ${
           isMenuOpen
-            ? "absolute top-16 left-0 bg-(--c-jet-black) pt-16 px-8 pb-6 z-100 h-[calc(100vh-4rem)] animate-(--a-fadeSlideIn)"
+            ? "absolute top-16 left-0 bg-(--c-jet-black) pt-16 px-8 pb-6 z-100 h-[calc(100%-4rem)] animate-(--a-fadeSlideIn)"
             : "hidden"
         }`}
       >
