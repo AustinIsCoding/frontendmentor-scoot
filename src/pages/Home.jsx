@@ -46,7 +46,7 @@ const Home = () => {
       <Header />
       <main className="grid grid-cols-(--wrapper-mobile) overflow-hidden md:grid-cols-(--wrapper-tablet) xl:grid-cols-(--wrapper-desktop)">
         {/* Hero */}
-        <section className="col-span-3 bg-[url(assets/images/home-hero-mobile.jpg)] bg-cover bg-center h-162.5 grid grid-cols-[inherit] relative md:bg-[url(assets/images/home-hero-tablet.jpg)] xl:bg-[url(assets/images/home-hero-desktop.jpg)]">
+        <section className="col-span-3 bg-[url(/assets/images/home-hero-mobile.jpg)] bg-cover bg-center h-162.5 grid grid-cols-[inherit] relative md:bg-[url(/assets/images/home-hero-tablet.jpg)] xl:bg-[url(/assets/images/home-hero-desktop.jpg)]">
           <div className="col-start-2 flex flex-col gap-6 items-center text-center mt-29 text-(--c-white) xl:items-start xl:text-start xl:max-w-[500px] xl:mt-38 xl:gap-10">
             <h1>Scooter sharing made simple</h1>
             <p className="xl:ml-[95px]">
