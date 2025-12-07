@@ -15,8 +15,7 @@ This is a solution to the [Scoot website challenge on Frontend Mentor](https://w
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://frontendmentor-scoot.vercel.app/)
 
 ## My process
 
